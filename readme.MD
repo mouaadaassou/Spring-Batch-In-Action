@@ -2,7 +2,7 @@
 This project is used for a Series of DZone Articles on Spring Batch with Spring Boot.<br/><br/>
 the project uses an existing database provided by MySQL, you can check the documentation using this link : [test_db repo](https://github.com/datacharmer/test_db).
 
-![employees DB](img/Screenshot from 2020-01-04 00-36-58.png)
+![employees DB](img/data_model.png)
 
 ## Spring Batch With Job Parameters:
 #### Overview:
