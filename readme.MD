@@ -4,7 +4,7 @@ the project uses an existing database provided by MySQL, you can check the docum
 
 ![employees DB](img/Screenshot from 2020-01-04 00-36-58.png)
 
-## Spring Batch With Job Parameters: 
+## Spring Batch With Job Parameters:
 #### Overview:
 in the first place we will show how to use Spring Batch - in a Spring Boot project -  with Job Parameters.
 to do so we will create a batch job that select all the employees from the employees DB and write them to
